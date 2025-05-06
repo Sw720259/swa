@@ -14,6 +14,9 @@ case2:
 case3:
 		printf("\nFirstclass");
 		break;
+case4:
+		printf("\nFail");
+		break;
 
 	}
 	return 0;
