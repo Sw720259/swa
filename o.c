@@ -11,6 +11,9 @@ case1:
 case2:
 		printf("\nGood");
 		break;
+case3:
+		printf("\nFirstclass");
+		break;
 
 	}
 	return 0;
