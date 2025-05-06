@@ -8,6 +8,10 @@ int main() {
 case1:
 		printf("\nExcellent");
 		break;
+case2:
+		printf("\nGood");
+		break;
+
 	}
 	return 0;
 }
