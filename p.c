@@ -10,6 +10,9 @@ case1:
 case2:
 		printf("Tuesday\n");
 		break;
+		printf("thrusday\n")
+			break;
+	
 		default:
 		printf("Invalid day\n");
 		break;
